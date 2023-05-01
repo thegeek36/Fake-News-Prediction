@@ -1,7 +1,6 @@
-streamlit
+skict-learn
 nltk==3.5
 pandas==1.2.1
 streamlit==0.75.0
-GoogleNews==1.5.2
-newspaper==0.1.0.7
+
 
